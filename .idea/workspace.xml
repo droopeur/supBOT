@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f146857-40b1-4343-a08f-a89c4c1255e6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/Python" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_bisect.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_blake2.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_bz2.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_codecs_cn.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_codecs_hk.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_codecs_iso2022.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_codecs_jp.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_codecs_kr.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_codecs_tw.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_datetime.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_hashlib.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_heapq.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_lzma.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_md5.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_multibytecodec.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_opcode.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_pickle.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_posixsubprocess.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_random.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_sha1.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_sha256.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_sha3.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_sha512.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_socket.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_ssl.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/_struct.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/binascii.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/email/architecture.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/grp.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/libcrypto.1.0.0.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/liblzma.5.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/library.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/libreadline.7.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/libssl.1.0.0.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/math.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/pydoc_data/_pydoc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/pyexpat.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/readline.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/select.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/termios.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/unicodedata.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib/zlib.cpython-36m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bot/guy.py" afterPath="$PROJECT_DIR$/bot/supBOT.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bot/supBOT.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,43 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="supBOT.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bot/supBOT.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2297">
-              <caret line="18" column="118" lean-forward="false" selection-start-line="18" selection-start-column="118" selection-end-line="18" selection-end-column="118" />
-              <folding>
-                <element signature="e#276#285#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bot/setup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,11 +46,11 @@
         <option value="$PROJECT_DIR$/guy.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/setupcpy.py" />
-        <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/bot/testDriver.py" />
         <option value="$PROJECT_DIR$/bot/guy.py" />
         <option value="$PROJECT_DIR$/bot/setup.py" />
         <option value="$PROJECT_DIR$/bot/supBOT.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
       </list>
     </option>
   </component>
@@ -166,17 +88,6 @@
             <path>
               <item name="supBOT" type="b2602c69:ProjectViewProjectNode" />
               <item name="supBOT" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="supBOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supBOT" type="462c0819:PsiDirectoryNode" />
-              <item name="bot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="supBOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supBOT" type="462c0819:PsiDirectoryNode" />
-              <item name="bot" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,12 +205,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/bot/supBOT.py</url>
-          <line>6</line>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
@@ -309,9 +214,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#276#285#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -335,14 +238,6 @@
     <entry file="file://$PROJECT_DIR$/guy.py" />
     <entry file="file://$PROJECT_DIR$/setupcpy.py" />
     <entry file="file://$PROJECT_DIR$/test.c" />
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -371,9 +266,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2297">
           <caret line="18" column="118" lean-forward="false" selection-start-line="18" selection-start-column="118" selection-end-line="18" selection-end-column="118" />
-          <folding>
-            <element signature="e#276#285#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
