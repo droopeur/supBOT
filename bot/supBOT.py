@@ -12,12 +12,14 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 
 
 
 def launchDriver():
     global browser
-    browser = webdriver.Firefox()
+    binary = FirefoxBinary('Firefox.app/Contents/MacOS/firefox')
+    browser = webdriver.Firefox(firefox_binary=binary, executable_path='bin/geckodriver')
     browser.get(('http://www.supremenewyork.com/shop/all/'))
 
 def goToCat(categorie):
@@ -28,11 +30,9 @@ def selectArticle(categorie, Keywords):
     print(browser.current_url)
     print()
     while browser.current_url == 'http://www.supremenewyork.com/shop/all/'+categorie+'' :
-        print(Keywords)
         try:
             art= None
             for kw in Keywords:
-                print(kw)
                 try:
                     art = browser.find_element_by_xpath("//*[text()[contains(.,'"+kw+"')]]")
                     art.click()
